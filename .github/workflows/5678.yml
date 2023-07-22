@@ -21,8 +21,7 @@ jobs:
     - name: Install yt-dlp
       run: |
         sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
-        sudo chmod a+rx /usr/local/bin/yt-dlp
-      
+        sudo chmod a+rx /usr/local/bin/yt-dlp     
        # j1东京新宿	
     - name: Get j1.m3u8
       run: |
@@ -44,7 +43,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=LR7i5_pkJBg)
         EOL
-
        # j3東京西武新宿駅 
     - name: Get j3.m3u8
       run: |
@@ -54,8 +52,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=lA6TaaMGgDo)
-        EOL
-        
+        EOL        
         # j4東京新宿歌舞伎町
     - name: Get j4.m3u8
       run: |
@@ -65,8 +62,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=gFRtAAmiFbE)
-        EOL
-        
+        EOL       
         # j5静岡市さった峠
     - name: Get j5.m3u8
       run: |
@@ -86,8 +82,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=OrGQEkkEkx4)
-        EOL
-        
+        EOL        
         # j7富士山
     - name: Get j7.m3u8
       run: |
@@ -108,8 +103,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=GToGoDDqpqc)
-        EOL
-        
+        EOL        
         # j9富士山河口湖
     - name: Get j9.m3u8
       run: |
@@ -119,8 +113,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
-        EOL
-        
+        EOL       
         # j10秋葉原
     - name: Get j10.m3u8
       run: |
@@ -130,8 +123,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=p9RxwPgYm7c)
-        EOL		
-        
+        EOL		        
         # j11富士山中伊豆
     - name: Get j11.m3u8
       run: |
@@ -141,8 +133,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=q5T3DxdzLs0)
-        EOL	
-        
+        EOL	        
         # j12富士山精進湖
     - name: Get j12.m3u8
       run: |
@@ -152,8 +143,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=qdVvly6pVhA)
-        EOL		
-        
+        EOL		     
         # j13函館山
     - name: Get j13.m3u8
       run: |
@@ -163,8 +153,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=s--MDmshT3I)
-        EOL  
-        
+        EOL          
         # j14厳島神社の大鳥居	
     - name: Get j14.m3u8
       run: |
@@ -174,8 +163,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=AiPyUWPPsIQ)
-        EOL
-        
+        EOL        
         # j15西武新宿駅
     - name: Get j15.m3u8
       run: |
@@ -185,8 +173,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=lA6TaaMGgDo)
-        EOL 
-        
+        EOL       
         # j16大阪道頓堀	
     - name: Get j16.m3u8
       run: |
@@ -196,8 +183,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=4Ek_1UULqq8)
-        EOL
-        
+        EOL        
         # j17東伊豆.熱川.片瀬海岸
     - name: Get j17.m3u8
       run: |
@@ -207,8 +193,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=lKlUUfJM4vQ)
-        EOL
-        
+        EOL        
         # j18能登鹿島駅
     - name: Get j18.m3u8
       run: |
@@ -218,8 +203,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=25600000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=THy9p2xJSek)
-        EOL 
-        
+        EOL      
         # j19津山城 鶴山公園
     - name: Get j19.m3u8
       run: |
@@ -229,8 +213,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=R7hyQ1FH4ZI)
-        EOL 
-        
+        EOL     
         # j20富士山平夢 
     - name: Get j20.m3u8
       run: |
@@ -240,8 +223,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=kg_3_1iAe3I)
-        EOL	
-        
+        EOL	        
         # j21台場海浜公園
     - name: Get j21.m3u8
       run: |       
@@ -251,8 +233,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=dJZBqTeC-h8)
-        EOL 
-        
+        EOL        
         # j22羽田空港
     - name: Get j22.m3u8
       run: |
@@ -262,8 +243,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=S6yByGMVD5k)
-        EOL 
-        
+        EOL       
         # j23国立天文台
     - name: Get j23.m3u8
       run: |
@@ -273,8 +253,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=gm-57AcpZhQ)
-        EOL		
-        
+        EOL		      
         # j24大阪国際空港
     - name: Get j24.m3u8
       run: |
@@ -284,8 +263,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=QUCq3tBoyK8)
-        EOL		
-        
+        EOL		       
         # j25博多駅
     - name: Get j25.m3u8
       run: |
@@ -295,8 +273,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=bHRaXxyvgU0)
-        EOL	
-        
+        EOL	  
         # j26長崎空港
     - name: Get j26.m3u8
       run: |
@@ -306,8 +283,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=CrxynLVl7Ss)
-        EOL		
-        
+        EOL		        
         # j27新千歳空港
     - name: Get j27.m3u8
       run: |
@@ -317,8 +293,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Azbdr5jbN6o)
-        EOL		
-        
+        EOL		    
         # j28日本各景點直播循環
     - name: Get j28.m3u8
       run: |
@@ -328,8 +303,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=owaarXChaXQ)
-        EOL	
-        
+        EOL	       
         # j29富士山・日本平ライブカメラ Mt.Fuji
     - name: Get j29.m3u8
       run: |
@@ -339,8 +313,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=6Doy_fueZ_w)
-        EOL	
-        
+        EOL	        
         # j30河口湖からの-富士山ライブカメラ
     - name: Get j30.m3u8
       run: |
@@ -350,8 +323,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=bdUbACCWmoY)
-        EOL	
-        
+        EOL	        
         # j31富山市ライブ配信
     - name: Get j31.m3u8
       run: |
@@ -361,8 +333,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=EVstiuV3y94)
-        EOL	
-        
+        EOL	        
         # j32静岡市さった峠-広重の富士山
     - name: Get j32.m3u8
       run: |
@@ -372,8 +343,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=OrGQEkkEkx4)
-        EOL	
-        
+        EOL	       
         # j33富士山ライブカメラ
     - name: Get j33.m3u8
       run: |
@@ -383,8 +353,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
-        EOL	
-        
+        EOL	        
         # j34富士山頂からライブ配信中
     - name: Get j34.m3u8
       run: |
@@ -394,8 +363,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Pm6rYzR_bnk)
-        EOL	
-        
+        EOL	        
         # j35富士山ライブカメラ 朝霧高原 より
     - name: Get j35.m3u8
       run: |
@@ -405,8 +373,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=rZcJf2-p7Kk)
-        EOL	
-        
+        EOL	    
         # j36浅草寺の境内-本堂側
     - name: Get j36.m3u8
       run: |
@@ -416,8 +383,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=nOk4cd0kkp8)
-        EOL	
-        
+        EOL	        
         # j37浅草寺の境内-雷門側
     - name: Get j37.m3u8
       run: |
@@ -427,8 +393,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=hBiBadOukZA)
-        EOL	
-        
+        EOL	       
         # j38北海道 いまの札幌-さっぽろ創世スクエア
     - name: Get j38.m3u8
       run: |
@@ -438,8 +403,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=kfIQBC0hrII)
-        EOL	
-        
+        EOL	        
         # j39大阪の夜景 あべのハルカス
     - name: Get j39.m3u8
       run: |
@@ -449,8 +413,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=qz8F44n5DEw)
-        EOL	
-        
+        EOL	        
         # j40東京駅丸の内口
     - name: Get j40.m3u8
       run: |
@@ -471,9 +434,8 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=NiuYip4ufyw)
-        EOL	
-        
-        # j42東京 総武線 浅草橋駅 秋葉原
+        EOL	     
+       # j42東京 総武線 浅草橋駅 秋葉原
     - name: Get j42.m3u8
       run: |
         touch ./j42.m3u8
@@ -482,8 +444,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=mZnFfsFQUQY)
-        EOL	
-        
+        EOL	            
         # j43道頓堀ライブカメラ ２
     - name: Get j43.m3u8
       run: |
@@ -493,8 +454,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=N42_ZMBDbMo)
-        EOL	
-        
+        EOL	        
         # j44ミニ尾瀬公園  
     - name: Get j44.m3u8
       run: |
@@ -504,8 +464,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=dPqRUOj9ECE)
-        EOL	
-        
+        EOL	       
         # j45十勝大橋ライブカメラ
     - name: Get j45.m3u8
       run: |
@@ -515,8 +474,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=nk9uKVuLcGE)
-        EOL	
-        
+        EOL	        
         # j46石川県羽咋市-千里浜
     - name: Get j46.m3u8
       run: |
@@ -526,8 +484,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=kqkDQNe9EQI)
-        EOL	
-        
+        EOL	        
        # j47台場海浜公園 屋形船
     - name: Get j47.m3u8
       run: |
@@ -537,8 +494,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=dJZBqTeC-h8)
-        EOL	
-        
+        EOL	        
         # j48お台場海浜公園
     - name: Get j48.m3u8
       run: |
@@ -548,8 +504,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Q6bEzzdV7g8)
-        EOL	
-        
+        EOL	        
         # j49羽田空港1
     - name: Get j49.m3u8
       run: |
@@ -559,8 +514,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=ja-HuskdXCo)
-        EOL	
-        
+        EOL	        
         # j50羽田空港2
     - name: Get j50.m3u8
       run: |
@@ -570,8 +524,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=E8JKeypwCXI)
-        EOL	
-        
+        EOL	        
         # j51羽田空港3
     - name: Get j51.m3u8
       run: |
@@ -581,8 +534,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls  https://www.youtube.com/watch?v=5E3cNyknK3c)
-        EOL	
-        
+        EOL      
         # j52羽田空港-滑走路の空
     - name: Get j52.m3u8
       run: |
@@ -592,8 +544,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=LE10LvORCBU)
-        EOL	
-        
+        EOL	        
         # j53羽田空港D滑走路
     - name: Get j53.m3u8
       run: |
@@ -603,8 +554,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls  https://www.youtube.com/watch?v=F0mMIRKUjA8)
-        EOL	
-        
+        EOL       
         # j54羽田空港 機坪反向
     - name: Get j54.m3u8
       run: |
@@ -614,8 +564,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls  https://www.youtube.com/watch?v=DLsYMox4rCY)
-        EOL	
-        
+        EOL	       
         # j55成田空港定点1
     - name: Get j55.m3u8
       run: |
@@ -625,8 +574,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls  https://www.youtube.com/watch?v=RrYK6N45Mpg)
-        EOL	
-        
+        EOL	        
         # j56成田空港定点2
     - name: Get j56.m3u8
       run: |
@@ -636,8 +584,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=mYhkthVZUhY)
-        EOL	
-        
+        EOL	        
         # j57いまの新千歳空港-北海道
     - name: Get j57.m3u8
       run: |
@@ -647,8 +594,7 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls https://www.youtube.com/watch?v=Azbdr5jbN6o)
-        EOL	
-        
+        EOL	        
         # j58新千歲機場候機樓
     - name: Get j58.m3u8
       run: |
@@ -659,7 +605,6 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(yt-dlp --print urls  https://www.youtube.com/watch?v=PUgPJXp9ujc)
          EOL	
-
     - name: git add
       run: |
         git add -A
