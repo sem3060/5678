@@ -1,4 +1,4 @@
- j1.东京新宿	,https://raw.githubusercontent.com/sem3060/5678/main/j01.m3u8 
+ j1.东京新宿	,https://raw.githubusercontent.com/sem3060/5678/main/j1.m3u8 
  
  j2.恵比寿駅前,https://raw.githubusercontent.com/sem3060/5678/main/02.m3u8
  
