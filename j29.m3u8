@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690059853/ei/7e-7ZLm6E4aL8wTq2KXoAg/ip/104.45.204.112/id/6Doy_fueZ_w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2SqzdF2cJZULdCPFZby_rJt6BPU4Q/vprv/1/playlist_type/DVR/mh/Yd/mm/44/mn/sn-p5qlsn7d/ms/lva/mv/u/mvi/1/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362686,24363391/mt/1690037647/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgesZvmxcFAvgODDW5wlgKOVqpMEWkLr4DxwZUuKdXTXECIHtv80VPOXSj-TnNtjLDUkxVjihGb9SNPt6HcFIguJv1/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOchKe58bfCmV_ITlWIS8PBVlm6IJWVEg7P5uQF-XCKgAiAn1tlZwB3NiDnX43uhl4_8KVivw7kwEcQnS3mvQQ1oiQ%3D%3D/playlist/index.m3u8
+EOL	
+
+# j30河口湖からの-富士山ライブカメラ
