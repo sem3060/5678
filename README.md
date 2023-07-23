@@ -42,7 +42,7 @@
  
  j22.羽田空港,https://raw.githubusercontent.com/sem3060/5678/main/j22.m3u8
  
- j23.国立天文台,https://raw.githubusercontent.com/sem3060/5678/main/j23.m3u8
+ j23.国立天文台(星座分布),https://raw.githubusercontent.com/sem3060/5678/main/j23.m3u8
  
  j24.大阪国際空港,https://raw.githubusercontent.com/sem3060/5678/main/j24.m3u8
  
@@ -104,7 +104,7 @@
  
  j53.羽田空港D滑走路,https://raw.githubusercontent.com/sem3060/5678/main/j53.m3u8
  
- j54.羽田空港 機坪反向,https://raw.githubusercontent.com/sem3060/5678/main/j54.m3u8
+ j54.羽田空港4,https://raw.githubusercontent.com/sem3060/5678/main/j54.m3u8
  
  j55.成田空港定点,1https://raw.githubusercontent.com/sem3060/5678/main/j55.m3u8
  
