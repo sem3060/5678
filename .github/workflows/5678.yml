@@ -261,7 +261,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=mwP5Z_j30t8)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=mwP5Z_j30t8&t=39s)
         EOL    
         
         # j23国立天文台(星座分布)
@@ -627,7 +627,7 @@ jobs:
         $(yt-dlp --print urls  https://www.youtube.com/watch?v=RrYK6N45Mpg)
         EOL	    
         
-        # j56成田空港定点2
+        # j56羽田空港定点
     - name: Get j56.m3u8
       run: |
         touch ./j56.m3u8
