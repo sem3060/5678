@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1695796837/ei/BXoTZfmPFMGQkwazwpqQDw/ip/20.171.102.0/id/nOk4cd0kkp8.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr25---sn-ib.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f83_yuKnfAnd-GCgMTNi0xsqR04/vprv/1/playlist_type/DVR/mh/l3/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/25/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1695774660/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgBgb2QicY9lhHVfaI2_ksW851d5fhE6bmjrEd7qZDdd0CIQDX8w14EqM2dDpCFqPxGgzJMutnHinGuQVWy19Whr9Rsg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgRxMI5KhhLn6SfF8QQVmlB1oKuU6niLwaH6-ngwga3B8CID3wYA-jzEq5ub8CVp-10t2uigagwgCLzzxeISIukf_q/playlist/index.m3u8
 EOL	  
 
 # j37浅草寺の境内-雷門側
