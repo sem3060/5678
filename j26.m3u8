@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702372244/ei/NM93Ze-GH9SQsfIP4LmzkAw/ip/20.172.29.176/id/CrxynLVl7Ss.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-a5msen7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyDZBwOuuEVP1_laAF5eRdnI-lo/vprv/1/playlist_type/DVR/mh/f4/mm/44/mn/sn-a5msen7l/ms/lva/mv/u/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702350308/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgaRO-v7dY5mDojnoYTUctIUbypfiNwetStD5v3vO17iwCIHKjOaiH6ID-H7nz-prw9ybAaBt96gTf3soZs9zPf7lS/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAKJ83fj5e3eoYLjf4STcwQn8IlnaPhz82keB9NQKBn7cAiEA-PeUm0d-0osPTf-bWwKMdhq9OB9X60NSI-NkiS4Yyfo%3D/playlist/index.m3u8
 EOL		  
 
 # j27新千歳空港
