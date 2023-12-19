@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702987999/ei/fzSBZbrUEu6Q_9EPrcCp-Ao/ip/20.55.126.70/id/dJZBqTeC-h8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsrn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fxh7MY0SF04nyzFUXWfUYY3pIj4/vprv/1/playlist_type/DVR/mh/_i/mm/44/mn/sn-vgqsrn66/ms/lva/mv/u/mvi/5/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1702966098/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgRF2TL0M7PGySIKcRXMikdUEDl1tp20dp3ayGX2p6_FMCIC0lX9aaJf9i8g91djNjfJ6a1h-5vOznzrnggU60995u/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgCKuaUXMb8QC9g2p1_E-L62fYqNmN_Zwo3YXpoGr5YdMCIArgX2juQ2_R8kIZnj_rfZsAbxRcYT4FaHEYaZMZ3k4u/playlist/index.m3u8
 EOL	  
 
 # j48お台場海浜公園
