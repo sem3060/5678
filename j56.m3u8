@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712686657/ei/4TEVZrXoIpDUsfIPzaeu6AY/ip/52.157.4.85/id/mYhkthVZUhY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-a5meknds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f-U2t2vJSqotZkflIdR8A8jFKVZKIJdjs9VliTDeNALOSNshS5Esvw/vprv/1/playlist_type/DVR/initcwndbps/4030000/mh/Y4/mm/44/mn/sn-a5meknds/ms/lva/mv/m/mvi/4/pl/22/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712664743/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMOezZ_p8_rFc6-GM7GVYQZeqFOrF1tTRte4cRbeVHv4AiEA1msPMkXP28wGye6FVWM-lXmVhwByVicU2rRho1PzWUM%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhANoy3TVI9FM45Pepg-wjRlBY1xozyOgiQCPUeMd23mhBAiEAl9LoiPhtNUtJKnhEITyFmFiQCh3QCHH1h4c0WXQ0XwQ%3D/playlist/index.m3u8
 EOL	  
 
 # j57いまの新千歳空港-北海道
