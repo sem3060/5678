@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712653858/ei/wrEUZpTDFOuylu8P4K-MwAY/ip/172.183.91.34/id/Sv9hcJ3k5h4.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqskn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzJzgkOU7laLi4UeKeGpspGQ6tEKJb90b0_KRLlhv8hnJhlpjngNgqgQ/vprv/1/playlist_type/DVR/mh/ZC/mm/44/mn/sn-vgqskn66/ms/lva/mv/u/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712631718/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKOepxLZ8NjJQ-F3yveYN372r70spxQg41D1PBUc6yTxAiAWzjKuF3uOdPskhio4mk9tcCAHCxNbhzZBwbC5_0lJog%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAOj601bQL_n1CMIWUEzpT1Px3RCKsfEAMj3M1fNaOxR4AiA3q2pdi_FMo3GQT97Q2XFrOqVI7vT-DLPOB-jM95EKtg%3D%3D/playlist/index.m3u8
+
 EOL   
 
 # j10秋葉原
