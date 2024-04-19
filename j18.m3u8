@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=25600000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713508855/ei/l70hZsP4NN2DkucP89aoyAI/ip/20.51.207.129/id/THy9p2xJSek.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qlsn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fypLEiRQASG6kM7sO9KgS9nNydbE3bos/vprv/1/playlist_type/DVR/mh/SB/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/2/pl/23/dover/11/pacing/0/keepalive/yes/mt/1713486312/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAO9xx6BA4KqJuHXVaQK5K3jJpPvgKFmOsvxQnrKVQmvXAiB1w8om_qpIgPI13uTxlV7dxWQJtX6qNt4zlQGAzqwtpQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgfX8DybUOqNCDzyQ-Yb6t_ZbzwVgosGjc6e_kuQcQ4M8CIDDDEWnMpZrBQx51oatETGQRmYb2P6Y811wDwn7lIwE-/playlist/index.m3u8
 EOL     
 
 # j19津山城 鶴山公園
