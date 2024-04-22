@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713768179/ei/k7IlZqfBAtbiir4PsLqrgAw/ip/172.183.39.80/id/Sv9hcJ3k5h4.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4wTb27-9qzC-1zK3xmLdOz6Fz_31Nx9/vprv/1/playlist_type/DVR/mh/ZC/mm/44/mn/sn-vgqsrnld/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713745685/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIfBrevkdu_XUmXDSiVv85baliYmqr-uwOxEGMUqms9iAIhAJzsQznrT6R4fs28O3ItKlg4GtbKpYPK5lmSYFxO3Cew/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAMqWFhD--wvMN2-Fw2SpNLTxKWhFMgB5_hMJAdYXafcxAiAQZbhNJEWZrqFQFzTSe_z78WNkOrjhfooby2yMCHmbdQ%3D%3D/playlist/index.m3u8
 EOL	
 
 # j34富士山頂からライブ配信中
