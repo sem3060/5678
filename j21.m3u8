@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714695135/ei/f9czZsLdFMWGlu8P17Sp0Ao/ip/172.183.147.149/id/dJZBqTeC-h8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsknz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fzUSWqyBGGhi4HsRShRaaKsElCeTcm6Msm2-ARj9swi8htouL9WY90S_/vprv/1/playlist_type/DVR/initcwndbps/1438750/mh/_i/mm/44/mn/sn-vgqsknz7/ms/lva/mv/m/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/mt/1714673320/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKJywwGcQUDydzJwII5F8_2XlKL2Wjea4Mq5KzwKkyIOAiEAuI1C-jdz7eQ5cjtmRx2pxykwHhY-YCOUtpQMlcmWP5U%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgN4ID0qqhCReHEdas54zE89wI9A4e3Q_kZ5k-UwpIv00CIQDCeR9tAiEEMyIIS6mUO-36peH1fbtX-KS1xRRNUxwP4A%3D%3D/playlist/index.m3u8
 EOL   
 
 # j22羽田空港
