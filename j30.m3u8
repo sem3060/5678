@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714856987/ei/u082ZqipFYmjlu8P762i6AE/ip/172.183.51.243/id/bdUbACCWmoY.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsknzl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0GmXgRPLuI0Z9AYnHkIWB6072UJ3rCVKi3mFthDaCg1bhEJEF6guRy8/vprv/1/playlist_type/DVR/mh/Jn/mm/44/mn/sn-vgqsknzl/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/mt/1714834597/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgYK9R5yCyJPIBpLi26fI82u4YwvyErSFDaKntNGNLtYICIQDSAATHSvSb2Mxmul9J3C3Izo71zUQUPY_YYSevhsTM3w%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAOsBpG68WCLkNVCd1MYpgnQz6dslAa6s3hdkjUYU3AbCAiEAoXm6Qk2U2z80Hn3_73rwCv5VPg_owlpeYQ-1WgUF3Jg%3D/playlist/index.m3u8
 EOL	  
 
 # j31富山市ライブ配信
