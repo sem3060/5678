@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716250387/ei/s5JLZrL5MJvDsfIP2duh2AQ/ip/20.253.152.177/id/qz8F44n5DEw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-n4v7snlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/v5/mm/44/mn/sn-n4v7snlr/ms/lva/mv/u/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1716228625/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAOjJKeZn2DMB4mdztw_id6kA-tNys2li_l7q6xSwpW2VAiBpcCtFyIH3lPdsStgTcNixlVBgXca6dk1S8PFdxmKoBQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhANLYz_5mBvpxBd-m1UUdoi0FIE6l02vC12BZ5r8EWXM-AiBasXv6IPqGgaon7_NZ7GI3xt0jK9JrqBfjVWapjp0GOQ%3D%3D/playlist/index.m3u8
 EOL	 
 
 # j40東京駅丸の内口
