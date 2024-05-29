@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1716965209/ei/-XpWZsLTNeO2kucPwemJ6AY/ip/20.161.78.52/id/lA6TaaMGgDo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qlsndr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/1112500/mh/QN/mm/44/mn/sn-p5qlsndr/ms/lva/mv/m/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/mt/1716943220/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAIpYnRqC8sRm824K00HH1P5RWZQH5UHXAvW54tqI1P-BAiAigjkkm0kAuF3vhf1MNO8FFPuqpwJ03jJrqySNUjheEg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKYFcCERXe8HGNe46hd8xyvbllQUhQu9ULkG-81c61uyAiEAojYZ4Knf7bZ04h06oScYzf2Y4kSEp6bbE8yIzzz7Qt0%3D/playlist/index.m3u8
+
 EOL     
 
 # j4東京新宿歌舞伎町
