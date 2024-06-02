@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717352223/ei/v2JcZqjLI6qX2_gPveKz8AI/ip/172.183.130.201/id/kfIQBC0hrII.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3aX8XUwLEONQ9cdnPDZ2hGYpkFcBTV1B0O6qk0NjhJb7nZtgbVyXI18BWQ/vprv/1/playlist_type/DVR/mh/jm/mm/44/mn/sn-vgqsknzz/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/mt/1717329633/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALDvgvL_dp9P6_xO2pDpUmjoX21DL2BkiMe6loFYEf4AAiA8jO-yXSqZHp9NrvW6nYS1UqKji2TOMLEfQaQoTcyP1A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRgIhAIZJHbD3fys6HffeMqAR-lg8oZiGobWq6pLD2rHl0Iw6AiEAgZ6TKEQO3qf_3U7wwjCHnPkqCWPsoLxGUnYf88jz1uo%3D/playlist/index.m3u8
 EOL	  
 
 # j39大阪の夜景 あべのハルカス
