@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1756674668/ei/DGa0aLr8C8CO2_gP2-qd-A4/ip/64.236.134.229/id/s--MDmshT3I.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-vgqsrnes.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLP_JMctKuAj-_mTJF-oBovxVebTzVGozobdBBu0ijG47bDXh6xP1hjiqn3zM2qRg_q6oSHkkHjd/spc/l3OVKbrWtPBBifQkcBuS/vprv/1/playlist_type/DVR/met/1756653068,/mh/A0/mm/44/mn/sn-vgqsrnes/ms/lva/mv/u/mvi/5/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1756651696/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgWj7q1yEKPDMhkRlCk8Cu_-wVrU6gLlx9WIWdanroyFMCIQC-0NR8YfMwi7_nw7bBQR01HRNNhmCaxYqRPKY-zeE3hg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgcfZmnuxUnCGj6HTfnaC5fT0FM9ul39zYHsTZx4Tt9YwCIQC773V4gwQhXKZIiAj4Z9X50mXT5a-G3ZPTl9g4sgs-og%3D%3D/playlist/index.m3u8
 EOL     
 
 # j14厳島神社の大鳥居	
