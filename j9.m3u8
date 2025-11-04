@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1762258842/ei/OZsJaZavPL2-sfIP0ZyPsQM/ip/52.159.226.241/id/Sv9hcJ3k5h4.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5RCNYjgex-_aCbL9ZQwbVMayeFsYnwYuz0LXFWe-9--nlkNLCb_IHawfrHtIRmVHUhFil4EeTIs/spc/6b0G_GwmYsF3vbZzWtVRJ_mbRsjCFhIdt-g3w-wB-32qoh4B_sbZie3KtNTPot-6-7I/vprv/1/playlist_type/DVR/met/1762237242,/mh/ZC/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/1/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/mt/1762236375/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgHEYL10NDTQ-U7iw--yg8EKOoU0VTXNDlYmh5Y6KEF9ACIQDsm8MyPqbsZ8CJ5o-u2-ypqEexz7DZ4o8DRonEt_7E-w%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAM3jyFdDKa9vzzj6KSYdTKPTn-x22_z7Z7Uf3Mz4koGKAiBb7-6tB-qjSXjSMpEDMvhV72ukxJ4vWpZgIuECqVSE1w%3D%3D/playlist/index.m3u8
+
 EOL   
 
 # j10秋葉原
