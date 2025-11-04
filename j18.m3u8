@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=25600000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1762290902/ei/dhgKaeucB7qBkucPlIuO0QQ/ip/40.76.191.129/id/THy9p2xJSek.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-p5qs7n6y.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5THtNU0qebecYQ7fnDY6pS0rReZLrUTVzcU1f7wJKn2r9WYyGzwiJ0KcW8pFtOQGH3tWYWr4r1g/spc/6b0G_E6zGnulvjmkTWjC/vprv/1/playlist_type/DVR/cps/0/met/1762269302,/mh/SB/mm/44/mn/sn-p5qs7n6y/ms/lva/mv/u/mvi/1/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1762267874/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAL68F-aYCOQwLETpyxZCER80AURfYvJ6ZvLUObVFJpT3AiEAqJvMdE77jo-2YSpJWdZ8spbmcGR0xx-tan7Gm-9I0_o%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIGy_zjfaj6E-b68RlTKjubpyuCOo8Uvwl-Wwapi7cdTAiA3VZ_1NUswl5d0a26vr80yjauGzu5IksNQB9bXs4TpOA%3D%3D/playlist/index.m3u8
 EOL     
 
 # j19津山城 鶴山公園
