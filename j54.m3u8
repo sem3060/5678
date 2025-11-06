@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1762412680/ei/J_QLafLyPKrZy_sProru6Q0/ip/52.159.247.162/id/DLsYMox4rCY.13/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AdEuB5T9f7nWZD-zr16F3iQ2VAVa3fmf7Y7WvY2_Rv2MoQ2wMZXcNJXmtoTYJBgQR7cW3sowh8T5fMkg/spc/6b0G_Ho3IHAMg9dkAS5pc18zeTjXskg1ELF7jkQ22MEBGieA4XPQ48FJxcKf5paGxJA/vprv/1/playlist_type/LIVE/cps/0/met/1762391081,/mh/Fj/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/1/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/mt/1762388518/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgVQbl2z7yAUE-2xgq7fVik3gYCSxyljuQf-gPUqm9VdsCIBPu70NLh4b-sv2d8KXTSMMhW219VmKGh6AvNJHIAd5r/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAOJ5PeDnry-FS_uUA3GJssFru1yIZjGELpRh3anDgX53AiEA2muA9YXraWWoTjQHpdoaa8styXN9frI7oakqdlDKC28%3D/playlist/index.m3u8
 EOL	
 
 # j55成田空港定点1
