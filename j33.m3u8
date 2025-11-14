@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1763113354/ei/KqUWaZ6pCvmM2_gPj9CA-Q4/ip/57.151.137.146/id/Sv9hcJ3k5h4.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-2onajc-5x.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5SDb5_gM97gAKe6yCEixSYnIvGqWreAXjh0pfUZZZ1PAbFhB-6q4YHCHHVGlLAiHxv7o2bAU8Mj/spc/6b0G_Fj4uhzb1y88hufDOLX_ySWtdA3dGDT0B7fw1JxQ827YHRAus_n74GWK0iNLDSk/vprv/1/playlist_type/DVR/cps/0/met/1763091755,/mh/ZC/mm/44/mn/sn-2onajc-5x/ms/lva/mv/u/mvi/4/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/mt/1763087540/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgdLRQmyUqDjPXaHRO_iznUfZZOeg5b_diW0uwqUb2dEoCIACDC532iGx5l_PfvjIxzhO_bEYTvXD9Ndi1h5H80Jhj/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPWrc5J2OnFsoxv8xatLR4_Zfkjs76AIzefAhCTxIfrVAiB8n7nHw-3Xk0T1e_ISEkubar-3rjWO66UpRnsIe3Sjvg%3D%3D/playlist/index.m3u8
 EOL	
 
 # j34富士山頂からライブ配信中
