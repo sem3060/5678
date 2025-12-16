@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1765941247/ei/n8tBaZSUJP6Z2_gPzLeD8AI/ip/172.182.213.2/id/lA6TaaMGgDo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-2imeyn7k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AYUSA3BRsHk34xtKKJc1DVL2iskXEskyYSqD4cOm-Ix_3ijKSC8NQvE0SGQ6S3UasWw39Qotkn0p76tl/spc/wH4Qq1vOFkjoJH7Lr8ODEEVXwTdmV-lwlBlYIP1MAVapvlAlq2HayZfLhwjvcDfG1bc/vprv/1/ns/MTtL597eqaiIKBy4iQ-6s9gR/playlist_type/DVR/cps/0/met/1765919648,/mh/QN/mm/44/mn/sn-2imeyn7k/ms/lva/mv/u/mvi/3/pl/14/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/n/IUG-dTFv5GcPkI_eQ1x/mt/1765919116/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIgNDWldCoJOxVGXtsKhmAoWYhqZBKQnCQzKYdYsgAewccCIQDMwzwDLHKB824QbF59dMvPhENTbhLilW_KrMniXlgN3Q%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgJRUB21ZqpAlXjKv82C9C77ykK52K1Ala338QhGScdF0CIHZfbzqhFFCCi71FmWHPnMqdEu6BgK2HcHjqBu7tWe8T/playlist/index.m3u8
 EOL     
 
 # j4東京新宿歌舞伎町
